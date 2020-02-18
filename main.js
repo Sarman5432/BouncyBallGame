@@ -113,7 +113,7 @@ evilCircle.prototype.draw = function(){
 }
 
 evilCircle.prototype.checkBounds = function(){
-    
+    //test
 }
 
 /**creating the balls and storing them in an array**/
